@@ -36,7 +36,7 @@ You need to have a vuforia Develeoper Key in order to use AR Features. [Get your
  
    
      
- Screenshot:  
+ Screenshots:  
  ![gif](https://i.postimg.cc/4NZdBhZf/ezgif-com-gif-maker.gif)  
  ![jpg](https://i.postimg.cc/5N7VLH2k/sa.jpg)  
  
