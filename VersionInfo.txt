@@ -1,7 +1,0 @@
-Unity 2018.4.31f1 (64-bit)
-
-UnitySetup-Android-Support-for-Editor-2018.4.31f1
-
-UnitySetup-Vuforia-AR-Support-for-Editor-2018.4.31f1
-
-Vuforia-Package-9-6-4
