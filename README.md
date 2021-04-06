@@ -12,7 +12,7 @@ This Project is inspired by [Diego Herrera](https://www.udemy.com/user/diego-her
 
 
 ## How to use:  
-You need to have a vuforia Develeoper Key in order to use AR Features. [Get your key](https://developer.vuforia.com/vui/develop/licenses)  
+Need a vuforia Develeoper Key in order to use AR Features. [Get your key](https://developer.vuforia.com/vui/develop/licenses)  
   
 ![Vuforia Key](https://i.postimg.cc/t4jPNPxz/Vu-key.png)
   
